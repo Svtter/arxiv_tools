@@ -1,6 +1,6 @@
 [project]
 name = "arxiv_tools"
-version = "0.1.0"
+version = "0.2.0"
 description = "Default template for PDM package"
 authors = [
     {name = "svtter", email = "svtter@qq.com"},
@@ -27,4 +27,4 @@ dev = [
 arxiv_tools = "arxiv_tools.cli:main"
 
 [project.scripts]
-sa = "arxiv_tools.cli:main"
+ss = "arxiv_tools.cli:main"
