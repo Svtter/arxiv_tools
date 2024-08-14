@@ -8,6 +8,6 @@ Quick download the arxiv papers.
 
 ## Usage
 
-`sa "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"`
+`ss "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"`
 
-more details, view with `sa -h`.
+more details, view with `ss -h`.
